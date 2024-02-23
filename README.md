@@ -13,7 +13,7 @@ Variables de proceso y salida (processing, storage, output)
 rta= resulado de la desicion
 
 #DISEÑO
-![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](Diagrama.png "diagrama de flujo")
 
 #construccion
 
