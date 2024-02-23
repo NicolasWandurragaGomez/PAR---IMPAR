@@ -1,4 +1,4 @@
-# EEJERCICIO N°4
+# EJERCICIO N°4
 
 ## Programa para calcular si un numero es par o impar
 
