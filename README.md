@@ -4,7 +4,7 @@
 
 # ANALISIS
 
-Variables de entrada (imut)
+Variables de entrada (input)
 
 X= un numero
 
